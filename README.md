@@ -7,6 +7,8 @@ shift + W to copy the width to your clipboard. icon changes red so you know you 
 
 shift + H to copy the height to your clipboard. icon changes blue so you know you copied it.
 
+makes media queries 10x easier.
+
 ## benefits
 
 instead of 
@@ -36,5 +38,3 @@ chrome://extensions/
 top left corner, "load unpacked" 
 
 load the files (:
-
-make media queries 10x easier.
