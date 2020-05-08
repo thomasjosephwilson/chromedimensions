@@ -1,6 +1,9 @@
 # easy chrome dimensions
 easily found and used dimensions of the chrome browser.
 
+demo video:
+https://www.youtube.com/watch?v=bgm3q-UKktY&feature=youtu.be
+
 
 shift + W to copy the width to your clipboard. icon changes red so you know you copied it.
 
